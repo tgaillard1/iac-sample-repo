@@ -1,3 +1,3 @@
-projectId = 1069906819951
+projectId = gaillard-gcp
 serviceAccountName = "terraformtest"
 serviceAccountDisplayName = "Terraform Recommender Test"
