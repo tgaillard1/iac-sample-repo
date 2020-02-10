@@ -1,3 +1,3 @@
-projectId = "tgproject1"
+projectId = "gaillard-gcp"
 serviceAccountName = "terraformtest"
 serviceAccountDisplayName = "Terraform Recommender Test"
